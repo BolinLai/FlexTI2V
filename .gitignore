@@ -1,0 +1,10 @@
+.DS_Store
+.idea/
+*pycache*
+weights/
+weights
+checkpoints/
+checkpoints
+example-*
+*.pyc
+*.pdf
