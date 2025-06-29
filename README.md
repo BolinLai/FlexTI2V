@@ -12,7 +12,7 @@
 ### TODO (Actively Updating...)
 - [ ] Code for inference
 - [ ] Diffusion code
-- [ ] Example images
+- [x] Example images
 - [ ] Add more instructions
 - [ ] Dataset
 - [ ] Evaluation
@@ -37,6 +37,10 @@ Comparison with classic TI2V tasks. Our task requires video generation condition
 ## Setup
 
 ### Environment
+
+```shell
+pip install -r requirements.txt
+```
 
 ### Dataset
 
