@@ -1,4 +1,4 @@
-# Incorporating Flexible Image Conditioning into Text-to-Video Diffusion Models without Training
+# Unified Text-Image-to-Video Generation: A Training-Free Approach to Flexible Visual Conditioning
 
 
 ### [Project Page](https://bolinlai.github.io/projects/FlexTI2V/) | [Paper](http://arxiv.org/pdf/2505.20629)
@@ -55,8 +55,9 @@ pip install -r requirements.txt
 If you find our paper helpful to your work, please cite with this BibTex.
 
 ```BibTex
-@article{lai2025incorporating,
-  title={Incorporating Flexible Image Conditioning into Text-to-Video Diffusion Models without Training},
+@article{lai2025unified,
+  title={Unified Text-Image-to-Video Generation:
+A Training-Free Approach to Flexible Visual Conditioning},
   author={Lai, Bolin and Lee, Sangmin and Cao, Xu and Li, Xiang and Rehg, James M},
   journal={arXiv preprint arXiv:2505.20629},
   year={2025}
