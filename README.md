@@ -56,8 +56,7 @@ If you find our paper helpful to your work, please cite with this BibTex.
 
 ```BibTex
 @article{lai2025unified,
-  title={Unified Text-Image-to-Video Generation:
-A Training-Free Approach to Flexible Visual Conditioning},
+  title={Unified Text-Image-to-Video Generation: A Training-Free Approach to Flexible Visual Conditioning},
   author={Lai, Bolin and Lee, Sangmin and Cao, Xu and Li, Xiang and Rehg, James M},
   journal={arXiv preprint arXiv:2505.20629},
   year={2025}
